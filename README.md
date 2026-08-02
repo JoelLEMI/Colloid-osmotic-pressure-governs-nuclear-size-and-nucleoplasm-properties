@@ -3,7 +3,7 @@
 This repository contains the analysis code used in this preprint, including scripts to extract segmentation data from Morphometrics (Matlab).
 
 ## 🚧 Still Under Construction
-The code does not work yet — I'm still working on uploading everything.
+The code does not fully work yet — I'm still working on uploading everything.
 ## Manuscript
 - [Preprint on bioRxiv](https://doi.org/10.64898/2026.07.21.739918)
 
